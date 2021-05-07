@@ -1,4 +1,4 @@
-# Plugin de 1-1_OneShot
+# Plugin de 1v1-OneShot
 
 **Version dev**
 
