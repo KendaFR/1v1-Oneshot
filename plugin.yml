@@ -1,0 +1,10 @@
+name: 1v1_OneShot
+version: dev
+author: Kenda
+main: fr.kenda.oneshot.Main
+commands:
+  oneshot:
+    description: Commande du plugin
+    aliases:
+      - 1v1
+      - game
